@@ -40,6 +40,32 @@ body{
     bottom: 0px;
 }
 
+#navbar {
+    overflow: hidden;
+    background-color: #1b266bf1;
+    float: center;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100000;
+    border-bottom: 1px solid #0064FB;
+}
+
+#navbar p {
+    color: #ffffff !important;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    padding: 10px 60px 10px 60px;
+    letter-spacing: 0.4px;
+    word-spacing: 1px;
+}
+
+header.header-padding.header-top-d {
+    padding-top: 80px;
+}
+
 /* -------------------------
     Header Start 
 ----------------------------- */

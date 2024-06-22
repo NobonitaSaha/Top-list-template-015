@@ -164,6 +164,17 @@
         font-size: 25px;
     }
 
+    #navbar p {
+        font-size: 15px;
+        line-height: 24px;
+        padding: 15px 10px;
+        letter-spacing: 0.2px;
+    }
+
+    header.header-padding.header-top-d {
+        padding-top: 115px;
+    }
+
 }
 
 
@@ -294,6 +305,9 @@
         margin-bottom: 50px;
     }
 
+    header.header-padding.header-top-d {
+        padding-top: 100px;
+    }
 }
 
 
@@ -321,6 +335,16 @@
 
     .header-description > p {
         padding: 0px 20px;
+    }
+
+    header.header-padding.header-top-d {
+        padding-top: 100px;
+    }
+
+    #navbar p {
+        font-size: 14px;
+        font-weight: 400;
+        padding: 10px 0px;
     }
 }
 
